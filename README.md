@@ -74,11 +74,18 @@ If you want to get to typescript and you cloned the javascript version, just run
 git checkout typescript
 ```
 
-### Optional Gitpod
+## 🌏  Optional: Open in the Cloud 
+Click any of the buttons below to start a new development environment to demo or contribute to the codebase without having to install anything on your machine:
 
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](https://vscode.dev/github/PatrickAlphaC/nextjs-smartcontract-lottery-fcc)
+[![Open in Glitch](https://img.shields.io/badge/Open%20in-Glitch-blue?logo=glitch)](https://glitch.com/edit/#!/import/github/PatrickAlphaC/nextjs-smartcontract-lottery-fcc)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/PatrickAlphaC/nextjs-smartcontract-lottery-fcc)
+[![Edit in Codesandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/PatrickAlphaC/nextjs-smartcontract-lottery-fcc)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/PatrickAlphaC/nextjs-smartcontract-lottery-fcc)
+[![Open in Repl.it](https://replit.com/badge/github/withastro/astro)](https://replit.com/github/PatrickAlphaC/nextjs-smartcontract-lottery-fcc)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc)
 
 ## Formatting in VSCode
 
